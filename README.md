@@ -12,8 +12,6 @@
   <li>Bundan sonra projenizi çalıştırıp devam edebilirsiniz.</li>
 </ol>
 <br/>
-<p>For English</p>
-<br/>
 <h4>NVM-Node-Version-Manager</p>
 <p>In React Projects, node js version errors occur for each project. To prevent this, we can use nvm, that is, Node-Version-Manager, to change the node js version for each project and use the compatible one.</p>
 <h4>REQUIRED STEPS</p>
