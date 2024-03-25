@@ -10,3 +10,10 @@ React Projelerinde her proje için node js sürümü hataları karşımıza çı
 5.PowerShell'de nvm list diyerek node js sürümlerinizi görebilirsiniz.
 6.Projenizde hangi node js sürümü geçerliyse terminalde çalıştırmadan önce nvm use [version] yaparak default node js sürümüzü belirleyin.
 7.Bundan sonra projenizi çalıştırıp devam edebilirsiniz.
+
+<p>Developer Roles:</p>
+<ol>
+  <li>Web developer</li>
+  <li>Desktop applications developer</li>
+  <li>Mobile developer</li>
+</ol>
