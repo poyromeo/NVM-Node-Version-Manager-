@@ -1,4 +1,4 @@
-<h4>NVM-Node-Version-Manager-</p>
+<h4>NVM-Node-Version-Manager</p>
 <p>React Projelerinde her proje için node js sürümü hataları karşımıza çıkıyor. Bunu önlemek için nvm yani Node-Version-Manager kullanarak her proje için node js sürümünü değiştirip uyumlu olanı kullanabiliriz.</p>
 
 <h4>#GEREKLİ ADIMLAR</p>
